@@ -11,7 +11,7 @@ senh4: 123@BlessedSchool
 
 - Time de Dev's: 
 
-Gustavo Luis da Silva
+Gustavo Luis da Silva<br>
 Jessica Antonicci Villa Lima
 Lucas Henrique Alves
 Matheus Caixeta Reis
